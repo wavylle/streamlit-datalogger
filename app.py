@@ -7,6 +7,7 @@ import serial
 import serial.tools.list_ports
 
 SERIAL_DATA_LIST = []
+test = ''
 
 st.set_page_config(
     page_title="My Datalogger",
